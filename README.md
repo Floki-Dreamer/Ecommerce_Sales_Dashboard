@@ -19,10 +19,10 @@ The data comes from the SuperStore database, processed and visualized with tools
 - Verify the causes of the drop in profits in the months of February and April
 - Estados que menor venta tienen por subcategoria
   * Accessories_Kansas
-  
-"Appliances"	"Louisiana"
-"Art"	"Vermont"
-"Binders"	"District of Columbia"
+  *Appliances_Louisiana
+  *Art_Vermont
+  *Binder_District of Columbia
+  *
 "Bookcases"	"Arizona"
 "Chairs"	"South Dakota"
 "Copiers"	"Massachusetts"
