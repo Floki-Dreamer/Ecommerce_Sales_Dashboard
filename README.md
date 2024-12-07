@@ -23,13 +23,12 @@ The data comes from the SuperStore database, processed and visualized with tools
   * Art_Vermont
   * Binder_District of Columbia
   * Bookcases_Arizona
-"Bookcases"	"Arizona"
-"Chairs"	"South Dakota"
-"Copiers"	"Massachusetts"
-"Envelopes"	"South Carolina"
-"Fasteners"	"Wisconsin"
-"Furnishings"	"Minnesota"
-"Labels"	"Nebraska"
+  * Chairs_South_Dakota
+  * Copiers_Massachusetts
+  * Envelopes_ South Carolina
+  * Fasteners_Wisconsin
+  * Furnishings_Minnesota
+  * Labels_Nebraska
 "Machines"	"Oregon"
 "Paper"	"Nevada"
 "Phones"	"South Carolina"
