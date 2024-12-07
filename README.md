@@ -17,7 +17,7 @@ The data comes from the SuperStore database, processed and visualized with tools
 # Based on the insights analyzed, the following actions are recommended:
 
 - Verify the causes of the drop in profits in the months of February and April
-- Estados que menor venta tienen por subcategoria
+- Estados que menor venta tienen por subcategoria -
   Accessories_Kansas
   
 "Appliances"	"Louisiana"
