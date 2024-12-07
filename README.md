@@ -29,9 +29,9 @@ The data comes from the SuperStore database, processed and visualized with tools
   * Fasteners_Wisconsin
   * Furnishings_Minnesota
   * Labels_Nebraska
-"Machines"	"Oregon"
-"Paper"	"Nevada"
-"Phones"	"South Carolina"
-"Storage"	"New Hampshire"
-"Supplies"	"Nebraska"
-"Tables"	"Connecticut"
+  * Machines_Oregon
+  * Paper_Nevada
+  * Phones_South Carolina
+  * Storage_New Hampshire
+  * Supplies_Nebraska
+  * Tables_Connecticut
