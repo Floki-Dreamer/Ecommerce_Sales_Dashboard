@@ -16,9 +16,9 @@ The data comes from the SuperStore database, processed and visualized with tools
 
 # Based on the insights analyzed, the following actions are recommended:
 
--Copiers have the highest profit margin
--With losses in Tablets, bookcases and supplies
--High percentage of returns on tablets 6.32%
+- Copiers have the highest profit margin
+- With losses in Tablets, bookcases and supplies
+- High percentage of returns on tablets 6.32%
 
 
 
