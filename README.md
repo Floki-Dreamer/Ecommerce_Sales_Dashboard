@@ -32,4 +32,5 @@ The code used in this process is available on GitHub:
 [Check it here](https://github.com/Floki-Dreamer/Online-Store/blob/master/Online-Store.ipynb).  
 
 ### The visualization of the results was carried out with Power BI. You can explore the interactive dashboard at the following link:
-[Check it here]().  
+- Dashboard Power BI
+[Check it here](https://app.powerbi.com/view?r=eyJrIjoiZTFkMGZmYTEtYmZmOS00Mzc3LTk3NjItOTJlZjQ0ODE1M2IwIiwidCI6IjY2NWYxNmFlLWVmN2ItNDUwNS04NjdkLTgyMzNkYjVhZWVhZiJ9).  
