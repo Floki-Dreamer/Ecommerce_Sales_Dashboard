@@ -16,6 +16,6 @@ The data comes from the SuperStore database, processed and visualized with tools
 
 # Based on the insights analyzed, the following actions are recommended:
 
-- Verify the causes of the drop in profits in the months of February and April
-- Estados que menor venta tienen por subcategoria
+- Check the causes of the drop in profits in the months of February and April 2020
+- Wyoming, West Virginia, South Dakota, Maine y District of Columbia con las ventas mas bajas
 
