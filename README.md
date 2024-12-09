@@ -31,7 +31,7 @@ The code used in this process is available on GitHub:
 - Python
 []
 
-### ** The visualization of the results was carried out with Power BI. You can explore the interactive dashboard at the following link:**
+### The visualization of the results was carried out with Power BI. You can explore the interactive dashboard at the following link:
 []
 
 Data source:
