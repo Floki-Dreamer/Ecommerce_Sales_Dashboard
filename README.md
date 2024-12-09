@@ -29,4 +29,4 @@ The data comes from the SuperStore database, processed and visualized with tools
 
 The code used in this process is available on GitHub:
 - Python
-[]
+[https://github.com/Floki-Dreamer/Online-Store/blob/master/Online-Store.ipynb]
