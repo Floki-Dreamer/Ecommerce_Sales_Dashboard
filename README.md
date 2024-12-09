@@ -29,4 +29,7 @@ The data comes from the SuperStore database, processed and visualized with tools
 
 The code used in this process is available on GitHub:
 - Python
-[https://github.com/Floki-Dreamer/Online-Store/blob/master/Online-Store.ipynb]
+[Check it here](https://github.com/Floki-Dreamer/Online-Store/blob/master/Online-Store.ipynb).  
+
+### The visualization of the results was carried out with Power BI. You can explore the interactive dashboard at the following link:
+[Check it here]().  
