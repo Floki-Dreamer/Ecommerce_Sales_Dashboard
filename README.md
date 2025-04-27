@@ -1,4 +1,4 @@
-# Online-Store
+# Ecommerce_Sales_Dashboard
 This dashboard was designed to provide insights into the company's operational and commercial performance. It enables monitoring of metrics that are relevant to the company
 
 
