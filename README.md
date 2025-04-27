@@ -30,10 +30,9 @@ The data comes from the SuperStore database, processed and visualized with tools
 The code used in this process is available on GitHub:
 - Python
 - Power BI
-[<iframe title="StoreSales" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTFkMGZmYTEtYmZmOS00Mzc3LTk3NjItOTJlZjQ0ODE1M2IwIiwidCI6IjY2NWYxNmFlLWVmN2ItNDUwNS04NjdkLTgyMzNkYjVhZWVhZiJ9" frameborder="0" allowFullScreen="true"></iframe>]
 
 ### The visualization of the results was carried out with Power BI. You can explore the interactive dashboard at the following link:
-[]
+["https://app.powerbi.com/view?r=eyJrIjoiZTFkMGZmYTEtYmZmOS00Mzc3LTk3NjItOTJlZjQ0ODE1M2IwIiwidCI6IjY2NWYxNmFlLWVmN2ItNDUwNS04NjdkLTgyMzNkYjVhZWVhZiJ9" frameborder="0" allowFullScreen="true"></iframe>]
 
 Data source:
 []
