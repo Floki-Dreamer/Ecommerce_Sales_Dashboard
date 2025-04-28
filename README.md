@@ -20,7 +20,7 @@ The data comes from the SuperStore database, processed and visualized with tools
 - With losses in Tablets, bookcases and supplies
 - High percentage of returns on tablets 6.32%
 
-# Tools used:
+## Tools used:
 - Python: To clean data and create a machine learning model
 - PostgreSQL: As a database to create views
 - Power BI: For visualization and understanding of the results
