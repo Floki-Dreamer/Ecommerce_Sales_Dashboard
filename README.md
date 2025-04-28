@@ -4,7 +4,7 @@ This dashboard was designed to provide insights into the company's operational a
 
 The data comes from the SuperStore database, processed and visualized with tools such as Python, PostgreSQL and Power BI.
 
-# KPIs Anlysis
+## KPIs Analysis
 
 - Return percentage
 - Average shipping time
@@ -14,7 +14,7 @@ The data comes from the SuperStore database, processed and visualized with tools
 - Sales and profits over the years
 - Sales by payment method
 
-# Based on the insights analyzed, the following actions are recommended:
+## Actions recommended
 
 - Copiers have the highest profit margin
 - With losses in Tablets, bookcases and supplies
