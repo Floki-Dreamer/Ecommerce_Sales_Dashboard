@@ -1,4 +1,4 @@
-# Ecommerce_Sales_Dashboard
+# Ecommerce Sales Dashboard
 This dashboard was designed to provide insights into the company's operational and commercial performance. It enables monitoring of metrics that are relevant to the company
 
 
@@ -33,5 +33,8 @@ The code used in this process is available on GitHub:
 
 ### The visualization of the results was carried out with Power BI. You can explore the interactive dashboard at the following link:
 [Check Dashboard here](https://app.powerbi.com/view?r=eyJrIjoiZTFkMGZmYTEtYmZmOS00Mzc3LTk3NjItOTJlZjQ0ODE1M2IwIiwidCI6IjY2NWYxNmFlLWVmN2ItNDUwNS04NjdkLTgyMzNkYjVhZWVhZiJ9)
+
+<img src="Storeonline1.png" alt="Dashboard de Airbnb" width="500"/>
+<img src="Storeonline2.png" alt="Dashboard de Airbnb" width="500"/>
 
 
